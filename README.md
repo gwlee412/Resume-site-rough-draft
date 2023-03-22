@@ -1,1 +1,1 @@
-# Resume-site-rough-draft
+# A rough draft of QA engineer resume
