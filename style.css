@@ -1,0 +1,30 @@
+body {
+  font-family: "proxima-nova", sans-serif;
+}
+.title {
+  text-align: center;
+}
+
+img {
+  width: 50%;
+}
+h4 {
+  text-align: center;
+}
+.skills-list {
+  display: flex;
+  justify-content: space-evenly;
+}
+.experience-dates {
+  font-size: 12px;
+}
+.linked-logo {
+  color: blue;
+}
+.contact {
+  text-align: center;
+}
+.skill-title {
+  text-decoration: underline;
+  margin-left: 40px;
+}
